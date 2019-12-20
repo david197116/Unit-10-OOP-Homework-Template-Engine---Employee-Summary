@@ -1,0 +1,29 @@
+{
+  "name": "unit-10-oop-homework-template-engine---employee-summary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/david197116/Unit-10-OOP-Homework-Template-Engine---Employee-Summary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/david197116/Unit-10-OOP-Homework-Template-Engine---Employee-Summary/issues"
+  },
+  "homepage": "https://github.com/david197116/Unit-10-OOP-Homework-Template-Engine---Employee-Summary#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.1",
+    "jest": "^24.9.0",
+    "path": "^0.12.7"
+  }
+}
